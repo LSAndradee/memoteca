@@ -4,48 +4,56 @@
       "id": 1,
       "conteudo": "leonardo",
       "autoria": "Leo",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": false
     },
     {
       "id": 2,
       "conteudo": "",
       "autoria": "Leoo",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": false
     },
     {
       "id": 3,
       "conteudo": "que vc veio",
-      "autoria": "Leooo",
-      "modelo": "modelo2"
+      "autoria": "m,ljklljlklkjkl",
+      "modelo": "modelo1",
+      "favorito": false
     },
     {
       "conteudo": "ghjhgjhgfnunjtghnf",
       "autoria": "fgdfg",
       "modelo": "modelo2",
+      "favorito": true,
       "id": 4
     },
     {
       "conteudo": "ghjhgjhgfnunjtghnf",
       "autoria": "fgdfg",
       "modelo": "modelo2",
+      "favorito": false,
       "id": 5
     },
     {
       "id": 6,
       "conteudo": "test",
       "autoria": "teste",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
       "conteudo": "gdfd",
       "autoria": "teste",
       "modelo": "modelo2",
+      "favorito": false,
       "id": 7
     },
     {
       "conteudo": "hghjgjh",
       "autoria": "...ç...",
       "modelo": "modelo2",
+      "favorito": false,
       "id": 8
     }
   ]
