@@ -19,7 +19,7 @@
       type="text"
       class="input"
       id="autoria"
-      name="autoria"
+      formControlName="autoria"
       placeholder="Digite a autoria ou fonte"
     >
     <div class="mensagem__erro"
@@ -91,7 +91,7 @@
         <div class="modelo modelo3 ff-roboto-mono">
           <img src="../../../../assets/imagens/modelo3.png" alt="Aspas verde claro">
           <p class="conteudo">{{ formulario.get('conteudo')?.value }}</p>
-          <p class="autoria"><b>{{ formulario.get('autoria')?.value}}</b></p>
+          <p class="autoria"><b>{{ formulario.get('autoria')?.value }}</b></p>
         </div>
       </div>
     </div>
